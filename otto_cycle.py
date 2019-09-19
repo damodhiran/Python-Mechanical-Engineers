@@ -2,11 +2,10 @@
 """
 Engine kinematics
 
-This one will plot a linear plot which is wrong
 
-Created on Sat Jun 23 08:49:56 2018
+Created on Sat Sept 23 08:49:56 2019
 
-@author: Vishwesh
+@author: Damodhiran N
 """
 
 import numpy as np
